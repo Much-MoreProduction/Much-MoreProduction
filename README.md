@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Much-MoreProduction
+- 👀 I’m interested in programming in HTML/CSS/JS, Python and C++
+- 🌱 I’m currently learning C++
+- 📫 Insta: much_more_production
+- ⚡ Fun fact: I play guitar
